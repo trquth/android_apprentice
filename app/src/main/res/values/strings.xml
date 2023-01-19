@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="beginner_member">Hello. I\'m a %1$s beginner. </string>
+</resources>
